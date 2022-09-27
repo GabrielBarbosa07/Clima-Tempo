@@ -45,7 +45,7 @@ export default function App() {
   };
 
   return (
-    <div className="h-[100vh] bg-gradient-to-b from-violet-600 to-blue-400 text-white font-roboto ">
+    <div className="h-[100vh] min-w-[340px] bg-gradient-to-b from-violet-600 to-blue-400 text-white font-roboto ">
       <nav className="py-4 mb-5 text-center shadow-md">
         <a className="py-3 px-3 ml-7 font-bold text-3xl" href="/">
           Clima Tempo
